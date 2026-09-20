@@ -1,0 +1,6 @@
+{
+  "name": "Bouffant Salon Noida",
+  "description": "Bouffant Salon Noida offers premium hair, beauty, grooming, hair coloring, keratin, hair spa, facials and styling services in Sector 76, Noida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
